@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Приложение Задачи</string>
+    <string name="delete_all">Удалить все</string>
+    <string name="completed">ЗАВЕРШЕНО</string>
+    <string name="desc">Описание</string>
+    <string name="info">Информация</string>
+    <string name="hint_name">Имя </string>
+    <string name="hint_description">Описание</string>
+    <string name="incomplete">НЕЗАВЕРШЕНО</string>
+
+    <string name="title_alert_dialog">Удалить задачу</string>
+    <string name="message_alert_dialog">Вы действительно хотите удалить эту задачу? Это действие нельзя отменить.</string>
+
+    <string name="title_alert_dialog_all">Удалить все задачи</string>
+    <string name="message_alert_dialog_all">Вы действительно хотите удалить все задачи? Это действие нельзя отменить.</string>
+
+    <string name="button_positive">Принять</string>
+    <string name="button_negative">Отмена</string>
+
+    <string name="text_name">Имя задачи: </string>
+    <string name="text_description">Описание задачи: </string>
+    <string name="status_task">Статус задачи</string>
+</resources>
